@@ -5,5 +5,5 @@ Exploring coding world
 #Software
 #Data
 #Programs  //first commit from local repo-VS code
-
+#Algorithms //Second commit
 
